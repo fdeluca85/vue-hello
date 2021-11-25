@@ -7,6 +7,7 @@
 const app = new Vue ({
     el: '#root',
     data: {
-        messaggio: 'Ciao a tutti'
+        messaggio: 'Ciao a tutti!!',
+        image: 'https://bit.ly/3HWE6YS',
     }
 });
